@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GrassdoorAppTask</string>
+    <string name="server_error">Something went wrong, Please try again later</string>
+</resources>
